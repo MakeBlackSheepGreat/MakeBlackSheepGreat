@@ -76,6 +76,33 @@
 <tr>
 <td width="50%">
 
+<h3 align="center">⚡ 龙山灵码 / swust-code</h3>
+<p align="center">终端原生 AI 编码 Agent，支持多 Agent 协作、持久记忆、目标驱动<br/><sub>Terminal-native AI coding agent with multi-agent orchestration and persistent memory</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/version-0.7.0-2563eb?style=flat-square"/>
+  <img src="https://img.shields.io/github/stars/MakeBlackSheepGreat/swust-code?style=flat-square&color=ff69b4"/>
+  <img src="https://img.shields.io/badge/docs-swust--code.dev-1d4ed8?style=flat-square"/>
+</p>
+<p align="center"><a href="https://github.com/MakeBlackSheepGreat/swust-code">→ View Project</a></p>
+
+</td>
+<td width="50%">
+
+<h3 align="center">🦴 osteo-vision</h3>
+<p align="center">骨科医学影像分析平台<br/><sub>Orthopedic medical imaging analysis platform</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/github/stars/MakeBlackSheepGreat/osteo-vision?style=flat-square&color=ff69b4"/>
+</p>
+<p align="center"><a href="https://github.com/MakeBlackSheepGreat/osteo-vision">→ View Project</a></p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 <h3 align="center">🔬 bucad</h3>
 <p align="center">乳腺超声计算机辅助诊断原型<br/><sub>Breast ultrasound CAD prototype</sub></p>
 <p align="center">
@@ -121,31 +148,6 @@
   <img src="https://img.shields.io/badge/Agent-FF6F00?style=flat-square&logo=googlegemini&logoColor=white"/>
 </p>
 <p align="center"><a href="https://github.com/MakeBlackSheepGreat/oh_my_LoongAgent">→ View Project</a></p>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<h3 align="center">📖 AI-Novel-APP</h3>
-<p align="center">AI 小说生成应用<br/><sub>AI-powered novel generation app</sub></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/github/stars/MakeBlackSheepGreat/AI-Novel-APP?style=flat-square&color=ff69b4"/>
-</p>
-<p align="center"><a href="https://github.com/MakeBlackSheepGreat/AI-Novel-APP">→ View Project</a></p>
-
-</td>
-<td width="50%">
-
-<h3 align="center">📱 android-coder</h3>
-<p align="center">Android 编码工具<br/><sub>Android developer utility</sub></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-</p>
-<p align="center"><a href="https://github.com/MakeBlackSheepGreat/android-coder">→ View Project</a></p>
 
 </td>
 </tr>
