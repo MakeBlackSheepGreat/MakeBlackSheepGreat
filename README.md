@@ -156,23 +156,21 @@
 ## 📊 GitHub 统计 | GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MakeBlackSheepGreat&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=8A2BE2&icon_color=C77DFF" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakeBlackSheepGreat&layout=compact&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=8A2BE2" alt="Top Languages"/>
+  <a href="https://github.com/MakeBlackSheepGreat?tab=followers">
+    <img src="https://img.shields.io/github/followers/MakeBlackSheepGreat?style=for-the-badge&color=8A2BE2&labelColor=1a1a2e&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/MakeBlackSheepGreat&query=$.public_repos&label=Public%20Repos&style=for-the-badge&color=9D4EDD&labelColor=1a1a2e&logo=github&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/MakeBlackSheepGreat&query=$.following&label=Following&style=for-the-badge&color=5A189A&labelColor=1a1a2e&logo=github&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/commit-activity/w/MakeBlackSheepGreat?style=for-the-badge&color=8A2BE2&labelColor=1a1a2e&logo=github&logoColor=white"/>
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MakeBlackSheepGreat&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=C77DFF&currStreakLabel=8A2BE2" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 成就墙 | Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MakeBlackSheepGreat&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
 </div>
 
 ---
