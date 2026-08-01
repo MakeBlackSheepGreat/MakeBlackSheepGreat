@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=620&lines=Hi+there+%F0%9F%91%8B+I'm+Yang+Zhijie;Independent+Developer;Medical+Imaging+AI+%E2%80%A2+AI+Agents;Crafting+code+that+sees+%26+reasons" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=620&lines=Hi+there+%F0%9F%91%8B+I'm+MakeBlackSheepGreat;Independent+Developer;Medical+Imaging+AI+%E2%80%A2+AI+Agents;Crafting+code+that+sees+%26+reasons" alt="Typing SVG" />
 
 <br/>
 
@@ -198,5 +198,5 @@
 <div align="center">
   <i><b>"Code that sees. Agents that reason."</b></i>
   <br/><br/>
-  <sub>© Yang Zhijie · Independent Developer</sub>
+  <sub>© MakeBlackSheepGreat · Independent Developer</sub>
 </div>
