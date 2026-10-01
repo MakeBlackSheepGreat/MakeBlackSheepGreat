@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=650&lines=Hi+there+%F0%9F%91%8B+I%27m+LiteBlackSheep;Medical+Imaging+AI+%E2%80%A2+AI+Agents+%E2%80%A2+Open+Source;Building+tools+that+see+%26+reason" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=650&lines=Hi+there+%F0%9F%91%8B+I%27m+LiteBlackSheep;Medical+Imaging+AI+%E2%80%A2+AI+Agents+%E2%80%A2+Open+Source;Building+tools+that+see+%26+reason" alt="Typing SVG" />
 
 <br/>
 
@@ -160,6 +160,16 @@
 
 ---
 
+## 🐍 Snake | 贪吞蛇
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MakeBlackSheepGreat/MakeBlackSheepGreat/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MakeBlackSheepGreat/MakeBlackSheepGreat/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/MakeBlackSheepGreat/MakeBlackSheepGreat/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
 ## 📊 GitHub 统计 | GitHub Stats
 
 <div align="center">
@@ -177,7 +187,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MakeBlackSheepGreat&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=C77DFF&currStreakLabel=8A2BE2" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=MakeBlackSheepGreat&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=C77DFF&currStreakLabel=8A2BE2" alt="GitHub Streak"/>
 </div>
 
 ---
