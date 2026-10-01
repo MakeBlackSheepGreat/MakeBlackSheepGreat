@@ -182,21 +182,6 @@
 
 ---
 
-## 🎯 有趣的事实 | Fun Facts
-
-<div align="center">
-
-| 🏆 | 我获得了校级科技创新奖 |
-|---|---|
-| 📚 | 我发表了 TGRS 论文（ATFNet: RGB-T adaptive image fusion） |
-| 🏥 | 我的项目涉及医学影像 AI（CT、超声、骨科） |
-| 🤖 | 我构建了多个 AI Agent 系统（swust-code、WeftMesh、CordiSwarm） |
-| 🌐 | 我的个人主页部署在 Cloudflare Pages 和 GitHub Pages |
-| 🎓 | 我是西南科技大学的学生 |
-
-</div>
-
----
 
 ## 📫 联系方式 | Connect
 
